@@ -19,9 +19,6 @@ header{
     color: var(--main-color);
     border-bottom-width: 2px;
     border-color: gray;
-}
-
-.porthead{
     margin: 0px auto;
     background-color: white;
     min-width: 0%;
