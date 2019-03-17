@@ -27,18 +27,9 @@ header{
     padding-left: 0px;
 }
 
-nav{
-    float:right;
-}
-
-.name-block{
+.navbar-brand{
     background-color: #4aaaa5;
-    padding: 10px 10px 10px 10px;
-    display: inline-block;
 }
-
-
-
 img {
     float: left;
     margin-right:20px;
@@ -86,7 +77,6 @@ img {
     padding-top: 25px;
     color: lightgray;
     background-color: white;
-
 }
 
 a{
